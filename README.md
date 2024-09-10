@@ -2,7 +2,7 @@
 Files from HTTP5114 course.
 
 
-##Starting a New Project
+## Starting a New Project
 
 1. Make a new repo on github.com
 2. Open your terminal
