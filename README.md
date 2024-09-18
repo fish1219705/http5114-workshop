@@ -9,4 +9,8 @@ Files from HTTP5114 course.
 3. Navigate your terminal to project destination
 4. Clone the repo
 5. Change directory into the new folder
-6. Open VSCode and point it to the same folderS
+6. Open VSCode and point it to the same folder
+
+## this is the link to [lessons-workshops](https://github.com/codeadamca/lessons-workshops-1)
+
+## this is the link to [tasks to be done](https://tasks.brickmmo.com/)
